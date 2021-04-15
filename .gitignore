@@ -1,4 +1,6 @@
-media
+media/*
 .idea
 .editorconfig
 .vscode
+.png
+.jpg
